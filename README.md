@@ -1,4 +1,4 @@
 website
 =======
 
-Content for jchendy.com
+Dude web page.
